@@ -1,7 +1,7 @@
 # 👋 Hey there! I’m @kinycx
 
 - 👀 24 years old, Studying Artificial Intelligence at Università degli studi di Bari. Passionate about music, video games, graphics, 3D printing and software developing
-- 🌱 I’m currently learning React JS and micro-services (I.E. Amazon Web Services)
+- 🌱 I’m currently learning Vue JS and micro-services (I.E. Amazon Web Services)
 - 📫 If you're interested in collaborating with me send an e-mail at d.devito.dev@gmail.com
 
 Take a look at my [Thesis](https://github.com/kinycx/LSTM-Music-Generation)
